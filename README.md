@@ -1,2 +1,25 @@
 # Digital Innovation One
-Aqui vão estar todos os conteúdos relacionados aos bootcamps da Digital Innovation One.
+
+Está parte é destinada em sepaar os conteúdos disponíveis pela DIO.
+
+--------------------------------------------------------------
+## Bootcamps
+
+
+### 1) Eduzz Fullstack Developer.
+
+--------------------------------------------------------------
+## Cursos lires
+
+
+--------------------------------------------------------------
+## Labs
+
+
+--------------------------------------------------------------
+## Live Coding
+
+
+--------------------------------------------------------------
+## Acelerações
+--------------------------------------------------------------

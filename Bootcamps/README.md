@@ -18,7 +18,7 @@
 
 > 09 mentorias.
 
-* Módulos Trabalhados:
+#### > Módulos Trabalhados:
 
 > Projetos ágeis com SCRUM;
 
@@ -67,7 +67,7 @@
 > Introdução prática a computação em nuvem usando AWS.  
 
 
-* Desafios:
+#### > Desafios:
 
 > Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
 

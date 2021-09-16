@@ -1,2 +1,2 @@
-# Bootcamps_DIO
+# Bootcamps
 Aqui vão estar todos os conteúdos relacionados aos bootcamps da Digital Innovation One.

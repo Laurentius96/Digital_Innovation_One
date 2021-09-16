@@ -1,6 +1,6 @@
 # Digital Innovation One
 
-Está parte é destinada em sepaar os conteúdos disponíveis pela DIO.
+Está parte é destinada em separar os conteúdos disponíveis pela DIO.
 
 --------------------------------------------------------------
 ## Bootcamps

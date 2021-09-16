@@ -28,11 +28,31 @@
 
 > JavaScript ES6 essencial;
 
-> 
+> Desenvolvimento avançado com JavaScript ES6;
+
+> Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces;
+
+> Resolvendo Desafios de Código em Javascript;
+
+> Introsução ao ReactJS;
+
+> Trabalhando com Componentes em React;
+
+> Desenvolvimento de aplicações para internet com ReactJS;
+
+> Práticas avançadas em projetos com ReactJS;
+
+> Introdução aos React Hooks; 
+
+> Criando aplicações móveis multiplataforma com React Native;
 
 * Desafios:
 
-> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
+
+> Desafios iniciais em JavaScript;
+
+> Criando seu jogo de memória estilo Genius;  
 
 --------------------------------------------------------------
 

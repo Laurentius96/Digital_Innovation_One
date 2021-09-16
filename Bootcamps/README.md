@@ -14,7 +14,9 @@
 
 > Serão 95hrs de contéudo;
 
-> 41 atividades ao total.
+> 41 atividades ao total;
+
+> 09 mentorias.
 
 * Módulos Trabalhados:
 
@@ -46,13 +48,42 @@
 
 > Criando aplicações móveis multiplataforma com React Native;
 
+> MySql - Trabalhando com as suas primeiras tabelas;
+
+> Introdução ao MongoDB e Bancos de Dados NoSQL;
+
+> Introdução ao Node.js com JavaScript;
+
+> Explorando o Estilo Arquitetural REST com Node.js;
+
+> Node.js com Bancos de Dados Realcionais (SQL);
+
+> Microsserviços e Integrações com Node.js; 
+
+> Fundamentos de Arquitetura de Sistemas;
+
+> Introdução a orquestração de contêineres com Docker;
+
+> Introdução prática a computação em nuvem usando AWS.  
+
+
 * Desafios:
 
 > Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
 
 > Desafios iniciais em JavaScript;
 
-> Criando seu jogo de memória estilo Genius;  
+> Criando seu jogo de memória estilo Genius;
+
+> Desafios Básicos em JavaScrip;
+
+> Criando um front-end totalmente componentizado na prática com ReactJS;
+
+> Desafios Médios em JavaScript;
+
+> Construindo Encurtador de URL.
+  
+ 
 
 --------------------------------------------------------------
 

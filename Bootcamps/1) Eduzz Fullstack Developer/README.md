@@ -1,12 +1,22 @@
-# 
+#  Apostila, Certificados & Projetos & Desafios dos cursos
 
-* Está parte é destinada em separar os bootcamps realizados pelo dono desse repositório.
+* Está parte é destinada em separar os itens citados no título.
 
-* Um bootcamp é um tipo de treinamento imersivo feito para o desenvolvimento de habilidades importantes em diversas áreas.
+--------------------------------------------------------------
+## Apostila:
+
+> Aqui estará o material criado pelo Lorenzo Bianchi,para armazenar todo contéudo apresentado durante o Bootcamp.
+
+--------------------------------------------------------------
+## Certificados:
+
+> Aqui estaram todos os certificados conquistados durante o Bootcamp.
 
 --------------------------------------------------------------
 
-  
- 
+## Projetos & Desafios dos cursos:
+
+> Aquei estará todos os códigos usados durante às aulas e os desafios do Bootcamp.
 
 --------------------------------------------------------------
+

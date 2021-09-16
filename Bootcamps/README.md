@@ -5,7 +5,7 @@
 * Um bootcamp é um tipo de treinamento imersivo feito para o desenvolvimento de habilidades importantes em diversas áreas.
 
 --------------------------------------------------------------
-## Bootcamps
+## Bootcamps:
 
 
 ### 1) Eduzz Fullstack Developer.

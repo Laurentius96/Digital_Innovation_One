@@ -5,7 +5,7 @@
 --------------------------------------------------------------
 ## Apostila:
 
-> Aqui estará o material criado pelo Lorenzo Bianchi,para armazenar todo contéudo apresentado durante o Bootcamp.
+> Aqui estará o material de estudo criado pelo Lorenzo Bianchi, feito para armazenar todo contéudo apresentado durante o Bootcamp.
 
 --------------------------------------------------------------
 ## Certificados:

@@ -20,7 +20,7 @@
 
 #### > Módulos Trabalhados:
 
-> Projetos ágeis com SCRUM;
+> Projetos ágeis com SCRUM ✅;
 
 > Lógica de Programação Essencial;
 

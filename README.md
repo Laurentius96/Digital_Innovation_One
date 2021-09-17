@@ -1,12 +1,12 @@
 # Digital Innovation One
 
-Está parte é destinada em separar os conteúdos disponíveis pela DIO.
+### Está parte é destinada em separar os conteúdos disponíveis pela DIO.
 
 --------------------------------------------------------------
 ## Bootcamps:
 
 
-### 1) Eduzz Fullstack Developer.
+> 1) Eduzz Fullstack Developer.
 
 --------------------------------------------------------------
 ## Cursos lires:

@@ -22,7 +22,7 @@
 
 > Projetos ágeis com SCRUM ✅;
 
-> Lógica de Programação Essencial;
+> Lógica de Programação Essencial ✅;
 
 > Introdução ao Git e ao GitHub;
 

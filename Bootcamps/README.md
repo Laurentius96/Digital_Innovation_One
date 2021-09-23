@@ -28,13 +28,13 @@
 
 > Introdução a criação de websites com HTML5 e CSS3;
 
-> JavaScript ES6 essencial;
+> JavaScript ES6 essencial ✅;
 
 > Desenvolvimento avançado com JavaScript ES6;
 
 > Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces;
 
-> Resolvendo Desafios de Código em Javascript;
+> Resolvendo Desafios de Código em Javascript ✅;
 
 > Introsução ao ReactJS;
 
@@ -71,15 +71,15 @@
 
 > Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso;
 
-> Desafios iniciais em JavaScript;
+> Desafios iniciais em JavaScript ✅;
 
 > Criando seu jogo de memória estilo Genius;
 
-> Desafios Básicos em JavaScrip;
+> Desafios Básicos em JavaScrip ✅;
 
 > Criando um front-end totalmente componentizado na prática com ReactJS;
 
-> Desafios Médios em JavaScript;
+> Desafios Médios em JavaScript ✅;
 
 > Construindo Encurtador de URL.
   

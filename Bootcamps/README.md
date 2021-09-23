@@ -24,7 +24,7 @@
 
 > Lógica de Programação Essencial ✅;
 
-> Introdução ao Git e ao GitHub ✅;
+> Introdução ao Git e ao GitHub;
 
 > Introdução a criação de websites com HTML5 e CSS3;
 

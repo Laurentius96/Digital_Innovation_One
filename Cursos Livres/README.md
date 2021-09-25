@@ -8,6 +8,6 @@
 
 1) Programação para internet com JavaScript;
    
-   * 
+> Atualizar... 
 
 --------------------------------------------------------------
